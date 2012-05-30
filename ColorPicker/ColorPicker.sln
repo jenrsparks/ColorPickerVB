@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ColorPicker", "ColorPicker.vbproj", "{FEC6953C-8C52-4C34-B322-4BE6E8CCDE04}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FEC6953C-8C52-4C34-B322-4BE6E8CCDE04}.Debug.ActiveCfg = Debug|.NET
+		{FEC6953C-8C52-4C34-B322-4BE6E8CCDE04}.Debug.Build.0 = Debug|.NET
+		{FEC6953C-8C52-4C34-B322-4BE6E8CCDE04}.Release.ActiveCfg = Release|.NET
+		{FEC6953C-8C52-4C34-B322-4BE6E8CCDE04}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
